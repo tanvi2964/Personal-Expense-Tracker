@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+}
+.card {
+  margin-top: 40px;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.modal-header {
+  background-color: #703266;
+  color: white;
+}
+.btn-purple {
+  background-color: #703266;
+  color: white;
+}
+.btn-purple:hover {
+  background-color: #5a264f;
+}
